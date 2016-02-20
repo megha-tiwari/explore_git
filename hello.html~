@@ -4,5 +4,9 @@
 <body>
 hello world
 says megha
+<<<<<<< HEAD
+=======
+
 to the world
+>>>>>>> alternate2
 </body>
